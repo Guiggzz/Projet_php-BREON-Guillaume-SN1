@@ -4,7 +4,7 @@
 // afficher le résultat.
 
 $tableau1 = [1, 2, 3, 4, 5, 6, 7];
-$tableau2 = [8, 9, 5, 5, 5, 2, 7, 5];
+$tableau2 = [8, 9, 5, 5, 5, 2, 7];
 $tableau3 = [];
 
 if (count($tableau1) == count($tableau2)) {
